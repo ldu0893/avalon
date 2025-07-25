@@ -1,0 +1,25 @@
+{
+  "name": "avalon-online",
+  "version": "1.0.0",
+  "description": "Online Avalon Game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "moment": "^2.30.1",
+    "socket.io": "^4.8.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldu0893/avalon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ldu0893/avalon/issues"
+  },
+  "homepage": "https://github.com/ldu0893/avalon#readme"
+}

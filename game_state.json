@@ -1,0 +1,47 @@
+{
+  "players": [
+    {
+      "name": "testasdfasvv",
+      "socketId": "AnVbRJ0o1IsqnLi2AAAL",
+      "connected": false,
+      "joinedAt": "2025-07-25T06:23:09-07:00",
+      "lastSeen": "2025-07-25T06:58:38-07:00"
+    },
+    {
+      "name": "vvv",
+      "socketId": "dnDMLse8MTLj7RnYAAAF",
+      "connected": true,
+      "joinedAt": "2025-07-25T06:23:23-07:00",
+      "lastSeen": "2025-07-25T06:23:23-07:00"
+    },
+    {
+      "name": "234",
+      "socketId": "2QQ4C9TiHIUwp_S7AAAH",
+      "connected": true,
+      "joinedAt": "2025-07-25T06:24:30-07:00",
+      "lastSeen": "2025-07-25T06:24:30-07:00"
+    },
+    {
+      "name": "vvvv",
+      "socketId": "qf8TSyH1B6U5QdrtAAAN",
+      "connected": false,
+      "joinedAt": "2025-07-25T06:24:35-07:00",
+      "lastSeen": "2025-07-25T06:58:38-07:00"
+    },
+    {
+      "name": "q3v",
+      "socketId": "Dni_DHxVc7OC0pM1AAAL",
+      "connected": true,
+      "joinedAt": "2025-07-25T06:25:09-07:00",
+      "lastSeen": "2025-07-25T06:25:09-07:00"
+    }
+  ],
+  "gameStarted": false,
+  "assignedRoles": {},
+  "currentPhase": "lobby",
+  "currentLeaderIndex": 0,
+  "currentTeam": [],
+  "teamVotes": {},
+  "missionVotes": {},
+  "missionResults": []
+}
